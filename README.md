@@ -31,11 +31,11 @@ this指针
 设计模式  
 
 #### JQuery
-API的理解 
-Jquery deferred 
-给dom绑定数据方法及区别 
-开源插件  
-源码的解读  
+API的理解   
+Jquery deferred   
+给dom绑定数据方法及区别   
+开源插件    
+源码的解读    
 
 #### DOM
 增删改查  
@@ -55,16 +55,16 @@ JSONP的原理
 
 
 #### CommonJS
-CMD/AMD的区别 
-Require.js/Sea.js 
+CMD/AMD的区别    
+Require.js/Sea.js   
 
 
 #### server
-nginx 
-JAVA/PHP  
-Node.js 
-如何debug 
-模块加载策略  
+nginx   
+JAVA/PHP    
+Node.js     
+如何debug   
+模块加载策略    
 
 
 #### 调试工具
